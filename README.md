@@ -1,1 +1,1 @@
-"This is my first gime using Git!!!!!".
+"This is my first time using Git!!!!!".
